@@ -5,7 +5,7 @@ public class Delivery {
     private Supplier supplier;
     private float deliveryPrice;
     Product[] deliveredProducts;
-
+// OK
     public Date getDeliveryDate() {
         return deliveryDate;
     }
